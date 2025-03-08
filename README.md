@@ -1,5 +1,5 @@
 # EasyAliasManager
-A simple Bash script to manage aliases with descriptions. Easily add, edit, list, remove, and retrieve alias descriptions.
+A simple Bash script to manage aliases with descriptions. Easily add, edit, list, remove, and retrieve alias + descriptions.
 
 ## Features
 - Add aliases from Bash history or explicitly.
@@ -13,7 +13,7 @@ A simple Bash script to manage aliases with descriptions. Easily add, edit, list
 Run the following command to install:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/bash-alias-manager/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/A-Temur/EasyAliasManager/refs/heads/main/install.sh | bash
 ```
 
 This will:
